@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "907316693586",
+    "project_id": "chaty-666cb",
+    "storage_bucket": "chaty-666cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907316693586:android:1679799025751223a5ed8b",
+        "android_client_info": {
+          "package_name": "com.example.khaled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907316693586-ib1ls86vde3cs2ajtsgb4okvdacarig5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcWkZV7q_oDje1X6Op2j-ofkqPCaJ0pXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907316693586-ib1ls86vde3cs2ajtsgb4okvdacarig5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
